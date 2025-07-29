@@ -1,0 +1,5 @@
+{
+  "m.homeserver": {
+    "base_url": "https://nextgroup.kifu.id.vn:7443"
+  }
+}
